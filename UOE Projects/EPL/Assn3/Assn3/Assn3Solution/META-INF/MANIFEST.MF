@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: Assignment 3
+Specification-Version: 0.1.0-SNAPSHOT
+Specification-Vendor: epl
+Implementation-Title: Assignment 3
+Implementation-Version: 0.1.0-SNAPSHOT
+Implementation-Vendor: epl
+Implementation-Vendor-Id: epl
+

@@ -1,0 +1,52 @@
+Launch speed: 27769 m/s
+direction: 0.7824 radians clockwise
+duration: 100 days to reach Mars
+delta t (viking 2): 233 days
+Return to Earth?: N
+44.83 degree
+
+Launch speed: 26534 m/s
+direction: 0.5237 radians clockwise
+duration: 119 days to reach Mars
+delta t (viking 2): 214 days
+Return to Earth?: N
+30.00 degree
+
+Launch speed: 36764 m/s
+direction: 1.305 radians clockwise
+duration: 68 days to reach Mars
+delta t (viking 2): 265 days
+Return to Earth?: N
+74.77 degree
+
+Launch speed: 30853 m/s
+direction: 1.044 radians(59.82 degrees) clockwise
+duration: 84 days to reach Mars
+delta t (viking 2): 249 days
+Return to Earth?: N
+
+Launch speed: 26406 m/s
+direction: 0.2709 radians(15.52 degrees) clockwise
+duration: 141 days to reach Mars
+delta t (viking 2): 192 days
+Return to Earth?: N
+
+
+m = 4.7739
+c = 24.034
+
+30855.5
+1.044
+59.82
+
+26408
+0.2709
+15.52 degrees
+
+Probe,3e9,green
+
+Probe,2328,"1.5e11,-7.378e6","1.96952e4,-1.95778e4","0,0","0,0","0,0"
+Probe,2328,"1.5e11,-7.378e6","22980,-13270","0,0","0,0","0,0" 30
+Probe,2328,"1.5e11,-7.378e6","9656,-35476","0,0","0,0","0,0"
+Probe,2328,"1.5e11,-7.378e6","15510,-26674","0,0","0,0","0,0"
+Probe,2328,"1.5e11,-7.378e6","25445,-7067","0,0","0,0","0,0" 60

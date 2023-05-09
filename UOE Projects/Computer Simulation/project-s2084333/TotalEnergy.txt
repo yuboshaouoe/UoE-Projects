@@ -1,0 +1,40 @@
+At time step 0,
+0 days since the starting point,
+Total Energy = -6.269792854393167e+33
+
+At time step 1752,
+73 days since the starting point,
+Total Energy = -6.26978760609513e+33
+
+At time step 3504,
+146 days since the starting point,
+Total Energy = -6.26978751178923e+33
+
+At time step 5256,
+219 days since the starting point,
+Total Energy = -6.269787494447201e+33
+
+At time step 7008,
+292 days since the starting point,
+Total Energy = -6.269787433815224e+33
+
+At time step 8760,
+365 days since the starting point,
+Total Energy = -6.269787497996755e+33
+
+At time step 10512,
+438 days since the starting point,
+Total Energy = -6.269787651074314e+33
+
+At time step 12264,
+511 days since the starting point,
+Total Energy = -6.269787641541871e+33
+
+At time step 14016,
+584 days since the starting point,
+Total Energy = -6.269787609836892e+33
+
+At time step 15768,
+657 days since the starting point,
+Total Energy = -6.269787607108802e+33
+

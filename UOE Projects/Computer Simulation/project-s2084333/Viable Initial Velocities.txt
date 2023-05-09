@@ -1,0 +1,6 @@
+Launch speed: 26406 m/s
+direction: 0.2709 radians(15.52 degrees) clockwise
+duration: 119 days to reach Mars
+delta t (viking 2): 214 days
+Return to Earth?: N
+

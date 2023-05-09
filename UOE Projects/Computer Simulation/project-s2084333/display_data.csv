@@ -1,0 +1,7 @@
+name,display_radius,display_color
+Sun,3e10,yellow
+Mercury,4e9,grey
+Venus,6.8e9,orange
+Earth,7e9,blue
+Mars,6e9,chocolate
+Probe,3e9,green
